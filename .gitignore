@@ -2,3 +2,5 @@ token.json
 *.log
 .env
 __pycache__/
+msal_cache.bin
+drive_index.csv
