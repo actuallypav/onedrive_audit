@@ -32,8 +32,7 @@ It scans file metadata and presentes insight visually so that action becomes obv
 
 ## Key Metrics Snapshot
 ![Histogram](visualisations/age_hist.png)
-![Interactive Visualisation](https://actuallypav.github.io/onedrive_audit/visualisations_interactive/age_hist.html
-)
+![Interactive Visualisation](https://pawelambrozy.com/onedrive_audit/visualisations_interactive/age_hist.html)
 ### What this shows
 The majority of the files are several years old, with large spikes between 2-8 years, <u>Very little</u> data is new.
 
