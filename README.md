@@ -40,7 +40,7 @@ In an organisation, this usually indicates:
 - Legacy projects still consuming storage
 - Forgotten data with no owner
 - Compliance risk from unmanaged records
->>> This chart identifies where automated archiving or deletion policies would deliver immediate value.
+> This chart identifies where automated archiving or deletion policies would deliver immediate value.
 
 ## Storage Growth Over Time
 ![Growth](visualisations/growth.png)
@@ -60,7 +60,7 @@ For an organisation, this enables:
 - Forecasting storage spend
 - Identifying departments creating spikes
 - Alerting on abnormal growth
->>> In production, this becomes an automated alert instead of reactive firefighting.
+> In production, this becomes an automated alert instead of reactive firefighting.
 
 ## KPI Summary
 ![KPI](visualisations/kpi.png)
@@ -81,7 +81,7 @@ Scale this to a business:
 - 34 GB -> 34 TB
 - $0.28 -> thousands per month
 - 40% waste -> entire storage tiers being irrelevant
->>> This is what executive dashboards should show: not just storage - _impact_.
+> This is what executive dashboards should show: not just storage - _impact_.
 
 ## Top-Level Folder Storage
 ![Treemap](visualisations/treemap.png)
@@ -99,7 +99,7 @@ In an organisation:
 - This identifies **teams/data owners**
 - Drives targeted cleanup
 - Enables accountability instead of guessing
->>> This chart tells leadership where to act first - not where to look blindly.
+> This chart tells leadership where to act first - not where to look blindly.
 
 ## Conclusion
 Taken together, these charts shwo a familiar pattern:
