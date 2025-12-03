@@ -1,6 +1,6 @@
 # Data Landfill Demo - Personal Storage Proof of Concept
 ## Executive Summary
-This demo shows how an organisation can **see**, **contrl**, and **automate** its data estate instead of letting it grow unchecked.
+This demo shows how an organisation can **see**, **control**, and **automate** its data estate instead of letting it grow unchecked.
 Using my personal cloud storage as a stand-in for an enterpise environment, I analysed how data grows, how much of it is unused, and where waste accumulates - then turned that into visual insight and automation opportunities.
 
 The exact data shown is personal, but the behaviour is universal.
