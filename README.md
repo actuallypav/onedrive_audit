@@ -27,6 +27,9 @@ The proof-of-concept answers three questions:
 - **What is quietly wasting money and increasing risk?**
 It scans file metadata and presentes insight visually so that action becomes obvious.
 
+> [!NOTE]
+> The dataset used within has been kept private - as this repository is public. To see a snippet please contact me directly.
+
 ## Key Metrics Snapshot
 ![Histogram](visualisations/age_hist.png)
 ### What this shows
