@@ -32,7 +32,8 @@ It scans file metadata and presentes insight visually so that action becomes obv
 
 ## Key Metrics Snapshot
 ![Histogram](visualisations/age_hist.png)
-![Interactive Visualisation](https://github.com/actuallypav/onedrive_audit/main/visualisations_interactive/age_hist.html)
+![Interactive Visualisation](https://actuallypav.github.io/onedrive_audit/visualisations_interactive/age_hist.html
+)
 ### What this shows
 The majority of the files are several years old, with large spikes between 2-8 years, <u>Very little</u> data is new.
 
@@ -48,7 +49,7 @@ In an organisation, this usually indicates:
 
 ## Storage Growth Over Time
 ![Growth](visualisations/growth.png)
-![Interactive Visualisation](https://github.com/actuallypav/onedrive_audit/main/visualisations_interactive/growth.html)
+![Interactive Visualisation](https://actuallypav.github.io/onedrive_audit/visualisations_interactive/growth.html)
 ### What this shows
 Growth is not steady - it happens in bursts.
 Large jumps indicate periods when substantial data was introduce at once.
@@ -69,7 +70,7 @@ For an organisation, this enables:
 
 ## KPI Summary
 ![KPI](visualisations/kpi.png)
-![Interactive Visualisation](https://github.com/actuallypav/onedrive_audit/main/visualisations_interactive/kpi.html)
+![Interactive Visualisation](https://actuallypav.github.io/onedrive_audit/visualisations_interactive/kpi.html)
 ### What this shows (from this dataset)
 - Total data: **34.2 GB**
 - Unused > 1 Year: **40.5%**
@@ -91,7 +92,7 @@ Scale this to a business:
 
 ## Top-Level Folder Storage
 ![Treemap](visualisations/treemap.png)
-![Interactive Visualisation](https://github.com/actuallypav/onedrive_audit/main/visualisations_interactive/treemap.html)
+![Interactive Visualisation](https://actuallypav.github.io/onedrive_audit/visualisations_interactive/treemap.html)
 ### What this shows
 Two folders dominate usage:
 - `uni tech`
