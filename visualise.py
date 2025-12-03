@@ -52,7 +52,7 @@ tiles = [
     ("Total data", f"{total_gb:.1f} GB", total_color),
     ("Unused >1yr", f"{unused_pct:.1f}%", unused_color),
     ("Monthly growth", f"{monthly_growth:.2f} GB", growth_color),
-    ("$ waste / mo", f"${waste:.2f}", waste_color),
+    ("£ waste / mo", f"£{waste:.2f}", waste_color),
 ]
 
 kpi_fig = go.Figure()
